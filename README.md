@@ -1,4 +1,4 @@
-tamcykulwellness.netlify.apptamcykulwellness.netlify.app# Tamcykul Wellness Website - Mercy Tare Thomas
+# Tamcykul Wellness Website – Mercy Tare Thomas
 
 This is the official website for **Tamcykul Wellness**, a nurse-led, AI-powered health brand focused on diabetes and metabolic health.  
 
@@ -6,12 +6,19 @@ The site serves as both a professional portfolio and the public face of the bran
 
 ---
 
-## Live Website
+## 📸 Website Preview
+![Website Screenshot](website-screenshot.png)
+
+> (Place `screenshot.png` in the same folder as this README)
+
+---
+
+## 🌍 Live Website
 [View Live Website](https://tamcykulwellness.netlify.app)
 
 ---
 
-## Features
+## ✨ Features
 - Fully responsive design for desktop and mobile  
 - Clean, professional UI/UX for wellness services  
 - Interactive buttons and navigation  
@@ -19,26 +26,26 @@ The site serves as both a professional portfolio and the public face of the bran
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 - **Web Development:** HTML, CSS, JavaScript  
 - **Version Control:** Git, GitHub  
-- **Hosting:** Nestify  
+- **Hosting:** Netlify  
 - **Tools:** VS Code, Figma  
 
 ---
 
-## Sections Highlighted
+## 📂 Sections Highlighted
 1. **Homepage** – Modern layout with brand colors and messaging  
 2. **About & Services** – Clear presentation of wellness offerings  
 3. **Contact** – Integrated contact form for inquiries  
 
 ---
 
-## Contact
+## 📬 Contact
 - **Email:** Tamcykul@yahoo.com  
 - **GitHub:** [github.com/tamcykul](https://github.com/tamcykul)  
 - **LinkedIn:** [linkedin.com/in/tamcykul](https://linkedin.com/in/tamcykul)
 
 ---
 
-**Note:** This project demonstrates hands-on experience in **front-end web development** and **hosting deployed sites**, making it suitable for internship or junior web/DevOps roles.# Tamcykul Website
+**Note:** This project demonstrates hands-on experience in **front-end web development** and **hosting deployed sites**, making it suitable for internship or junior web/DevOps roles.
