@@ -14,7 +14,7 @@ The site serves as both a professional portfolio and the public face of the bran
 ---
 
 ## 🌍 Live Website
-[View Live Website](https://tamcykulwellness.netlify.app)
+[View Live Website](https://tamcykulwellnessltd.netlify.app/)
 
 ---
 
